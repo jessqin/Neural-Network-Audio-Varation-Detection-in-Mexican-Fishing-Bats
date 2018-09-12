@@ -1,2 +1,2 @@
-# Neural-Network-Audio-Varation-Detection-in-Mexican-Fishing-Bats
+# Neural-Network-Audio-Variation-Detection-in-Mexican-Fishing-Bats
 🦇
